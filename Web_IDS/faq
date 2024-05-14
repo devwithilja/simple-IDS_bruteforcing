@@ -1,0 +1,6 @@
+This is a basic FAQ ( Frequently Asked Questions)
+
+1. Use python3 on your system in my case python 3.11.7 was used. You can install it in different ways.
+	On Windows for example you could manually install it from python.org or use scoop (a windows installation manager) or with scoop installing anaconda and with anaconda (is a package manager and environment manager) installing your desired python version.
+2. Install the needed packages for our FlaskApp in the requirements.txt file.
+	"pip3 install -r requirements.txt"
